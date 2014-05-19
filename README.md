@@ -4,6 +4,7 @@ jquery.browser.sp.js
 Extend jQuery browse object
 
 | browse object | browser |
+|:-----------|------------:|:------------:|
 | $.browser.ua | shortcut navigator.userAgent.toLowerCase() |
 | $.browser.android | Android browse is true |
 | $.browser.iphone | iPhone's Safari is true |
