@@ -7,6 +7,8 @@ Extend jQuery browse object
 <script src="jquery.browser.sp.js"></script>
 ```
 
+## browse object list
+
 | browse object | browser |
 |:-----------|------------:|:------------:|
 | $.browser.ua | shortcut navigator.userAgent.toLowerCase() |
