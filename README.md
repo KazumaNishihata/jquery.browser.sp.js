@@ -1,6 +1,6 @@
 jquery.browser.sp.js
 ===================
-Extend jQuery browse object
+Extend jQuery browser object
 
 ```
 <script src="jquery.js"></script>

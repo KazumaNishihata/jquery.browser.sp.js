@@ -5,7 +5,7 @@
  *  MIT-style license. 
  *  
  *  2014 Kazuma Nishihata 
- *  http://www.to-r.net
+ *  http://blog.webcreativepark.net/2014/05/19-170831.html
  *  
  *--------------------------------------------------------------------------*/
 ;(function($){
