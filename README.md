@@ -1,7 +1,11 @@
 jquery.browser.sp.js
 ===================
-
 Extend jQuery browse object
+
+```
+<script src="jquery.js"></script>
+<script src="jquery.browser.sp.js"></script>
+```
 
 | browse object | browser |
 |:-----------|------------:|:------------:|
